@@ -1,1 +1,1 @@
-<p align="center"><a href="me.png" target="_blank"><img src="https://www.penpeers.com//libraries/crowd/images/logo/logo2.png" width="400"></a></p>
+<p align="center"><a href="IOT_image.jpg" target="_blank"><img src="IOT_image.jpg" width="400"></a></p>

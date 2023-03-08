@@ -1,1 +1,1 @@
-![IOT Image](C:\Work\ITI 2023\Version Control System\IOT_image.jpg "Optional title")
+![IOT Image](readme.md "Optional title")
